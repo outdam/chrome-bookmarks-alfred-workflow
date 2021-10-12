@@ -1,4 +1,10 @@
 ---
+brave:
+  bookmarkListId: "32153c4e-91c6-47cc-ab88-10b16be1be84"
+  bookmarkOpenId: "96c62473-595b-480c-afdc-79b100a649d9"
+  profileListId: "11a6ffe7-3df1-48c5-b817-78a1380bb48a"
+  profileSetId: "5e9a86ad-4c1c-4924-8b20-e17ab712cfa7"
+
 chrome:
   bookmarkListId: "5f62cd88-0737-48db-a56a-c28761a4fcab"
   bookmarkOpenId: "f66a1d83-c6fe-409b-b3bd-d8ccce841491"

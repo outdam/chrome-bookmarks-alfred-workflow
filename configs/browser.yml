@@ -1,4 +1,11 @@
 ---
+- name: "brave"
+  fullName: "com.brave.Brave"
+  description: "Brave"
+  path: "~/Library/Application Support/BraveSoftware/Brave-Browser"
+  iconUrl: "brave.png"
+  profileName: "Default"
+
 - name: "chrome"
   fullName: "com.google.Chrome"
   description: "Google Chrome"
